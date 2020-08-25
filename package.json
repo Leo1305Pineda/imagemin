@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^7.1.0"
+    "gulp-gm": "0.0.9",
+    "gulp-imagemin": "^7.1.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "yargs": "^15.4.1"
   }
 }
